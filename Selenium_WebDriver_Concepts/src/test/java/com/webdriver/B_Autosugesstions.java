@@ -31,7 +31,12 @@ public class B_Autosugesstions {
 			}
 		}
 		
-		Thread.sleep(2000);
+		System.out.println("Test completed...");
+		
+		
+		
+		
+		Thread.sleep(5000);
 		driver.close();
 		
 		
